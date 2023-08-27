@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Mihir-yellow)](https://stackoverflow.com/users/22351126/mihir-sarwade)
 
 I'm
-Systems Engineer
+Systems Engineer , 
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development  (ReactJs, HTML5, CSS3, Javascript, Responsive) , database(MongoDB,Mysql)
 
 
