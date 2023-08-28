@@ -1,4 +1,4 @@
-### Hi Developers 👋
+### Hi Everyone 👋
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mihir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mihir-sarwade-1647431a0/)](https://www.linkedin.com/in/mihir-sarwade-1647431a0/)
@@ -7,7 +7,7 @@
 
 I'm
 Systems Engineer , 
-the crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development  (ReactJs, HTML5, CSS3, Javascript, Responsive) , database(MongoDB,Mysql)
+always have a passion to work in development technology. Currently I am learning web development which includes back-end development using open source technologies (NodeJs), front-end development  (ReactJs, Responsive) and skilled in HTML5, CSS3, Javascript , database (MongoDB,Mysql). Looking forward to become a Full Stack Web Developer.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/mihirsarwade32/count.svg)
@@ -26,6 +26,9 @@ Languages and Tools:
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
